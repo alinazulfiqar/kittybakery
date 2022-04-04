@@ -49,7 +49,7 @@ Cookies.CartContainer = function CookiesCartContainer({
 
   return (
     <InputContext.Provider value={{ input, setInput }}>
-      <CartContainer {...restProps}>{children}</CartContainer>;
+      <CartContainer {...restProps}>{children}</CartContainer>
     </InputContext.Provider>
   );
 };

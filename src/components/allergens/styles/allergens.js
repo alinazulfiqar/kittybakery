@@ -14,6 +14,7 @@ export const ListBox = styled.ul`
   align-items: flex-end;
   padding-bottom: 1rem;
   background: #eee;
+  padding-left: 0;
 `;
 export const Item = styled.li`
   list-style-type: none;

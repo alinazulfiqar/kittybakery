@@ -32,7 +32,7 @@ Recommendations.Item = function RecommendationsItem({
 }) {
   return (
     <ReactRouterLink to={to}>
-      <Item {...restProps}>{children}</Item>;
+      <Item {...restProps}>{children}</Item>
     </ReactRouterLink>
   );
 };

@@ -2,7 +2,6 @@ import styled from "styled-components/macro";
 
 export const Container = styled.div`
   background-color: #007367;
-
   display: flex;
   flex-direction: row;
   justify-content: space-between;
@@ -54,6 +53,7 @@ export const Text = styled.p`
   font-weight: 500;
   letter-spacing: 1.5px;
   font-size: 1.5rem;
+  overflow-wrap: break-word;
 `;
 export const Input = styled.input`
   border: none;

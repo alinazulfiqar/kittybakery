@@ -144,7 +144,6 @@ export const NavContainer = styled.div`
    margin: auto;
    border: 0;
   position: relative;
-  border: 2px solid green;
   width: 100%;
   ${UserDiv}{
     padding:0;
