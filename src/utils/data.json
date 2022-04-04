@@ -1,0 +1,83 @@
+[
+  {
+    "id": "1",
+    "title": "Soft Baked Chocolate Chunk Cookies",
+    "desc": "Our signature gluten-free & allergy-friendly Chocolate Chip cookies are now soft-baked. Made with better-for-you ingredients and only 2.5 grams of sugar per cookie, this new take on a classic is full of chewy, chocolatey flavor.",
+    "type": "soft",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-FjrV1TtXMcmXZJMzoEkZX5KawV7gt8Es8Q&usqp=CAU",
+    "theme": "lilac",
+    "route": "/",
+    "bg": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F19%2F2020%2F03%2F27%2F6j-QULaA-2000.jpeg",
+    "selected": false,
+    "qty": 0,
+    "price": "14.99"
+  },
+  {
+    "id": "2",
+    "title": "Soft Baked Cookie Butter Cookies",
+    "desc": "These soft and spiced cookies will warm any day. Gluten-free and allergy-friendly, enjoy sweet and buttery cookies full of everything you want in a snack and nothing you don't.",
+    "type": "soft",
+    "imageUrl": "https://www.tastesoflizzyt.com/wp-content/uploads/2020/03/brown-sugar-butter-cookies-14.jpg",
+    "theme": "blue",
+    "route": "/shop",
+    "bg": "https://i1.wp.com/abajillianrecipes.com/wp-content/uploads/2017/12/Cookie-Butter-Ginger-Cookies-A-baJillian-Recipes-8.jpg?fit=1080%2C1080&ssl=1",
+    "selected": false,
+    "qty": 0,
+    "price": "14.99"
+  },
+  {
+    "id": "3",
+    "title": "Soft Baked Pumpkin Pie Cookies",
+    "desc": "Our limited edition fam favorite is back! These spiced, soft-baked cookies will warm any fall day. Like all things Partake, these cookies are gluten-free, vegan, allergy-friendly, and non-GMO.",
+    "type": "soft",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuEVkJQ7m-ZQ63LGZrWH0L7rn63hT4kdkNeg&usqp=CAU",
+    "theme": "yellow",
+    "route": "/soft-chocolate-chunk",
+    "bg": "https://i0.wp.com/fresh-out.com/wp-content/uploads/2020/09/Soft-Pumpkin-Spice-Cookies-FI.jpg?fit=1200%2C765&ssl=1",
+    "selected": false,
+    "qty": 0,
+    "price": "14.99"
+  },
+
+  {
+    "id": "4",
+    "title": "Crunchy Chocolate Chip Cookies",
+    "desc": "The icon. The classic. The Chocolate Chip cookie! One taste of these vegan, allergy-friendly & non-GMO cookies prove why it's cookie time, all the time.",
+    "type": "crunchy",
+    "imageUrl": "https://beamingbaker.com/wp-content/uploads/2019/08/IGT1-Thin-Crispy-Vegan-Chocolate-Chip-Cookies-Gluten-Free-Dairy-Free-1.jpg",
+    "theme": "yellow",
+    "route": "/soft-chocolate-chunk",
+    "bg": "https://handletheheat.com/wp-content/uploads/2013/10/Thin-and-Crispy-Chocolate-Chip-Cookies-03.jpg",
+    "selected": false,
+    "qty": 0,
+    "price": "14.99"
+  },
+
+  {
+    "id": "5",
+    "title": "Crunchy Oatmeal Carrot Cake Cookies",
+    "desc": "This cookie takes the (carrot) cake! Literally. Packed with delicious flavor from carrots, oats, cinnamon, and rosemary, these vegan, allergy-friendly & non-GMO cookies are truly crave-worthy.",
+    "type": "crunchy",
+    "imageUrl": "https://celebratingsweets.com/wp-content/uploads/2017/03/Carrot-Cake-Cookies-2-2.jpg",
+    "theme": "yellow",
+    "route": "/soft-chocolate-chunk",
+    "bg": "https://shawsimpleswaps.com/wp-content/uploads/2021/04/Carrot-Cake-Cookies-8.jpg",
+    "selected": false,
+    "qty": 0,
+    "price": "14.99"
+  },
+
+  {
+    "id": "6",
+    "title": "Crunchy Birthday Cake Cookies",
+    "desc": "Surprise! It’s a birthday cake cookie you can feel great about—birthday or not. These vegan, allergy-friendly & non-GMO cookies are the gifts that keep on giving.",
+    "type": "crunchy",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScUy7MUIPAr64fH_RnQH26OtZ_OqzkM3qQ7A&usqp=CAU",
+    "theme": "yellow",
+    "route": "/soft-chocolate-chunk",
+    "bg": "https://mikebakesnyc.com/wp-content/uploads/2021/04/Photo-Apr-07-12-11-04-PM-1-scaled.jpg",
+    "selected": false,
+    "qty": 0,
+    "price": "14.99"
+  }
+]
